@@ -1,4 +1,4 @@
-# Python Course
+# Atividade Python Course
 
 Repositório destinado ao ensino da linguagem python para iniciantes.
 
