@@ -24,4 +24,4 @@ Este projeto tem como objetivo analisar dados de Vôos. O projeto é composto po
 
 1. repositório Git:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/PradaLuis/Atividade_Python-for-Data-Engineer_Luis-Enrique-A-Prada.git
